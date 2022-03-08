@@ -1,0 +1,1 @@
+# css-selector-generator-plugin
